@@ -9,11 +9,9 @@ An advanced, GUI-driven image processing application, crafted using tkinter, des
 
 🌟 Key Features:
 
-Versatile Image Loading: Seamlessly import standard formats (JPG, PNG, BMP, TIFF) and specialized .img raster files.
-Dynamic Image Display: Instantly view the original, grayscale, and K-means clustered renditions of your chosen image.
-Histogram Insights: Dive deep into color and grayscale image histograms, with added visualization of K-means clustering centers.
-K-means Clustering: Segment grayscale and color images using K-means clustering. Customize the number of clusters for tailored results.
-Visual Analytics: Plot K-means center intensities for grayscale images and explore RGB band relationships with an interactive scatter plot.
+**Summary:**
+
+We've developed a GUI-based Python application utilizing the Tkinter library, designed for comprehensive image processing tasks. This tool empowers users to implement k-means clustering, a potent machine learning technique for image segmentation and pattern recognition, on various image formats including .jpg, .jpeg, .png, and more. Once an image is uploaded, users can view its original or grayscale version and then apply k-means clustering to discern specific features or patterns in both color and grayscale modes. Additional functionalities include visualizing pixel intensity distributions through histograms, pinpointing k-means cluster centers, and generating scatter plots for color bands. This intuitive application streamlines the otherwise complex process of image segmentation, making advanced image analysis accessible even to non-experts.
 
 🛠 Built With:
 
