@@ -1,5 +1,8 @@
 ![image](https://github.com/Osman-Geomatics93/KTU_DIM023_K_Mean_Clustering/assets/114418442/18331bd7-1b62-48a3-b969-3942ff52c559)
 
+![image](https://github.com/Osman-Geomatics93/KTU_DIM023_K_Mean_Clustering/assets/114418442/4da3925f-5eb8-415b-8694-03f1d0b8f50e)
+
+
 🎨 Image Processing Toolkit
 
 An advanced, GUI-driven image processing application, crafted using tkinter, designed to empower users with a suite of tools to analyze and transform both grayscale and color images.
